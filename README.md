@@ -34,10 +34,13 @@ Aplikasi desktop berbasis JavaFX dan Maven untuk pencatatan, pencarian, serta me
 ## Screenshot
 ### Daftar Produk
 <img width="906" height="714" alt="image" src="https://github.com/user-attachments/assets/dbf97c4f-04d0-411e-9213-e9d488177a81" />
+
 ### Pencarian Produk
 <img width="898" height="709" alt="image" src="https://github.com/user-attachments/assets/a2cba9e5-0046-4c28-820f-0da5aa400ca5" />
-### Detail PRoduk
+
+### Detail Produk
 <img width="902" height="708" alt="image" src="https://github.com/user-attachments/assets/f36b186b-8473-4be3-9544-5a9d94bd1f30" />
+
 ### Tambah Produk
 <img width="898" height="704" alt="image" src="https://github.com/user-attachments/assets/6846a2e9-d24d-4913-aa87-4f079e7ccf3b" />
 
